@@ -1,0 +1,21 @@
+{
+  "name": "docker-tp3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:william-dechamps/DockerTP3.git",
+  "author": "William <william-dechamps@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "tscheck": "tsc"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
