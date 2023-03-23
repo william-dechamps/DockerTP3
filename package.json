@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "tscheck": "tsc"
+    "tscheck": "tsc",
+    "build": "vite build"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^3.1.0",
