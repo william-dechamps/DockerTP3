@@ -32,4 +32,4 @@ Lancer le conteneur :
 docker run --name container_super_app -d -p 8080:80 ma_super_app
 ```
 
-![curl check]("./curl.png")
+![alt check](./curl.png)
